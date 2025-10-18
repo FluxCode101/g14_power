@@ -3,6 +3,9 @@
 # Set display to 165Hz for performance
 kscreen-doctor output.eDP-1.mode.2560x1600@165
 
+# Set display to 165Hz for performance (dgpu)
+kscreen-doctor output.eDP-2.mode.2560x1600@165
+
 # Set ASUS aura lighting to static light gray
 asusctl aura static -c cccccc
 
