@@ -1,8 +1,12 @@
 ## Description: 
 
-Helper Scripts to reduce Power-Consumption for the
-- Asus Zephyrus G14 Laptop.
-- Using custom g14 Arch Kernal
+Helper Scripts to reduce Power-Consumption for the Asus Zephyrus G14 Laptop.
+
+## Requirments
+Prefered on Arch Linux based Distros
+- asusctl and supergfx (*required)
+- Using custom g14 Arch Kernel (optional)
+- rog-control-center (optional)
 
 ## Installing (kde):
 Clone the Repo
