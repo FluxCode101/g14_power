@@ -2,7 +2,7 @@
 
 Helper Scripts to reduce Power-Consumption for the Asus Zephyrus G14 Laptop.
 
-## Requirments
+## Requirements
 Prefered on Arch Linux based Distros
 - asusctl and supergfx (*required)
 - Using custom g14 Arch Kernel (optional)
